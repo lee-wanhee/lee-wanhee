@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Wanhee Lee 👋
 
-<!--
-**lee-wanhee/lee-wanhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD candidate at Stanford University (Applied Physics) working on **world modeling**, **3D vision**, and **multimodal generative models**.
 
-Here are some ideas to get you started:
+## Research Interests
+- Physical World Modeling
+- 3D Scene Understanding
+- Generative Models for Vision
+- Multimodal Transformers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+- **3WM: Unified 3D Scene Understanding Through Physical World Modeling** (ICLR 2026, Accepted)
+- **P3Sim: Perceptual 3D Simulation With Physical World Modeling** (CVPR 2026, Accepted)
+
+## Links
+- Website: [wanhee.ai](https://wanhee.ai)
+- LinkedIn: [wanhee-lee](https://www.linkedin.com/in/wanhee-lee/)
+- Email: [wanhee@stanford.edu](mailto:wanhee@stanford.edu)
