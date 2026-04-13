@@ -1,6 +1,6 @@
 # Hi, I'm Wanhee Lee 👋
 
-PhD candidate at Stanford University (Applied Physics) working on **world modeling**, **3D vision**, and **multimodal generative models**.
+PhD candidate at Stanford University working on **world modeling**, **3D vision**, and **multimodal generative models**.
 
 ## Research Interests
 - Physical World Modeling
